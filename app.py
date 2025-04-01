@@ -32,8 +32,6 @@ with st.container():
         st.title("Neural Network")
         st.write("Finally, a supervised learning Neural Network was implemented to capture complex variable interactions and improve predictive accuracy, setting the foundation for constructing the Bayesian Neural Network.")
         st.image("Neural Network.png")
-        st.write("1. Achieve at least 90% accuracy in predicting protein soybean yield (protein % * biological weight) or other plant characteristics.")
-        st.write("2. Help identify optimal salicylic acid treatment, genotype, water stress and other characteristics of soybean plants for optimal protein yields or other types of plant yields.")
         st.title("Visualization")
         st.write("We performed two experiments using different machine learning models to predict the seed yield per unit area (SYUA) based on a reduced feature set. Below are the visualizations representing the performance of the models.")
         st.title("Random Forest Regressor Model")
