@@ -76,7 +76,7 @@ with st.container():
         st.subheader("Contributions Table")
         st.image("Contributions_Table.png", width = 300, caption = "Contributions")
         st.subheader("Gantt Chart")
-        st.image("Gantt_Chart.png", width = 2500, caption = "Gantt Chart")
+        st.image("Gantt_Chart Image.png", width = 2500, caption = "Gantt Chart")
         st.subheader("References")
         st.title("References")
         st.write("[1]P. Kuchlan and M.K. Kuchlan, “Effect of Salicylic Acid on Plant Physiological and Yield Traits of Soybean,” Legume Research - An International Journal, no. Of, Mar. 2021, doi: https://doi.org/10.18805/lr-4527.")
